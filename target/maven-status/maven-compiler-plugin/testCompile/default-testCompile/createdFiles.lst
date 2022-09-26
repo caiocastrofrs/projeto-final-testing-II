@@ -1,0 +1,6 @@
+back/parabankAPI.class
+front/Tests/TestNewAccount.class
+front/Tests/TestOverview.class
+front/Tests/TestRegistration.class
+front/Tests/TestTransfer.class
+front/Tests/TestActivityAccount.class

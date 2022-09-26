@@ -1,0 +1,12 @@
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Pages/AccountPage.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Pages/OverviewPage.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Base/BasePage.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Pages/FundsPage.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/back/parabankAPI.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Tests/E_TestActivityAccount.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Tests/D_TestTransfer.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Tests/C_TestOverview.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Pages/RegisterPage.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Tests/B_TestNewAccount.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Pages/ActivityAccountPage.java
+/home/caio/IdeaProjects/Caio_Castro_Prova_Testing_II/src/test/java/front/Tests/A_TestRegistration.java
