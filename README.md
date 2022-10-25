@@ -12,16 +12,18 @@ Projeto avaliativo da aula de Testing II. Com o objetivo de medir nosso aprendiz
   <li>Abra o projeto no IntelliJ e baixe as dependências presente no <em>pom.xml</em></li>
 </ol>
 
+
 ### Front 
+<em>DISCLAIMER</em> O Driver que o teste utiliza é o Edgedriver, driver do Microsoft Edge.
 <ol>
   <li>Vá na pasta Tests que fica em: <em>src/test/java/front/Tests</li>
   <li>Execute o teste NewRegistration</li>
+  <li>Execute o restante na ordem que preferir</li>
 </ol>
 
-<em>DISCLAIMER</em> Nossos testes do Back ficaram simples demais porque não entendemos muito bem o funcionamento do Endpoint da API e acredito que rodá-los pode gerar testes falhos, mas caso ainda queira rodá-los, aqui está o passo a passo.
 ### Back
+<em>DISCLAIMER</em> Nossos testes do Back ficaram simples demais porque não entendemos muito bem o funcionamento do Endpoint da API e acredito que rodá-los pode gerar testes falhos, mas caso ainda queira rodá-los, aqui está o passo a passo.
 <ol>
   <li>Abra o arquivo parabankAPI que fica em: <em>src/test/java/back/</li>
   <li>Execute qualquer teste que tenha a notação @Test acima</li>
 </ol>
-
